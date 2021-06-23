@@ -1,0 +1,38 @@
+@import '../../../assets/global.scss';
+.content {
+    font-size: 16px;
+    color: $secondary-color;
+
+    .body-home {
+        cursor: pointer;
+        
+        .body-img {
+            width: 32px;
+            height: 32px;
+            padding-left: 16px;
+        }
+    }
+
+    .header-home {
+        display: flex;
+        flex-direction: row-reverse;
+
+        .selected-home {
+            margin-top: 8px;
+            width: 100%;
+        }
+        .create-home {
+            cursor: pointer;
+            text-decoration: underline;
+
+            .create-img {
+                width: 52px;
+                height: 49px;
+            }
+        }
+
+        .search-home {
+            width: 100%;
+        }
+    }    
+}

@@ -1,0 +1,20 @@
+{
+	"app-locale": "Português",
+	"app-current-language": "Linguagem Atual: {appLocale}",
+	"selected":"Selecionados",
+	"send-email":"Enviar E-mail",
+	"send": "Enviar",
+	"search":"Buscar",
+	"details":"Detalhes",
+	"to-back":"Voltar",
+	"characters": "Personages",
+	"creators": "Creadores",
+	"send-modal-manufacturer":"Fabricante",
+	"name":"Nome",
+	"phone":"Telefone",
+	"manufacturer_register":"Cadastro de Fabricante",
+	"manufacturer_edit":"Editar Fabricante",
+	"save": "Salvar",
+	"cancel":"Cancelar"
+
+}
