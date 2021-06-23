@@ -1,4 +1,4 @@
-# register_manufacturer
+# Register Manufacturer
 Manufacturer CRUD screen using MongoDB, Node JS and React JS
 
 Download the projects. Then open the terminal in the "API" folder and run: 
